@@ -1,0 +1,46 @@
+nav {
+    background-color: red;
+}
+
+.a_Nav {
+    color: #fff;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.a_Nav:hover {
+    text-decoration: underline;
+}
+
+main {
+    height: 100vh;
+    width: 100%;
+}
+
+
+#particles-js {
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.slogan_Main{
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    position:absolute;
+}
+
+.slogan_H1 {
+    font-size: 90px;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+}
+.slogan_H1_Change {
+    font-size: 90px;
+    color: red;
+    font-family: 'Press Start 2P', cursive;
+    text-shadow: 1px 1px 20px red;
+}
